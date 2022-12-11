@@ -37,10 +37,6 @@ function displayJoke(setup, punchline) {
     });
   }
 
-
-
-
-
 loadJoke();
 
 const newJoke = document.querySelector('.new-joke');
